@@ -1,10 +1,11 @@
-## Insurance Cross Sellling Binary Classification
+## Insurance Cross Selling Binary Classification
 
 Submission for the Kaggle [Binary Classification on Insurance Cross Selling](https://www.kaggle.com/competitions/playground-series-s4e7) competition.
 
--------------------
-### Three versions were made to track the model improvements (or regression) with changes to aspects of the model.
--------------------
+---------------- 
+
+Three versions were made to track the model improvements (or regression) with changes to aspects of the model.
+
 
 ### V1
 The model is a CatBoostClassifier with StratifiedKFold trained for 2 splits.
