@@ -5,6 +5,7 @@ Submission for the Kaggle [Binary Classification on Insurance Cross Selling](htt
 
 Three versions were made to track the model improvements (or regression) with changes to aspects of the model.
 
+---------------- 
 
 ### V1
 The model is a CatBoostClassifier with StratifiedKFold trained for 2 splits.
